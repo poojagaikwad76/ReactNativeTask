@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image, StyleSheet, Text, View } from 'react-native';
+import {Image, StyleSheet, Text, View} from 'react-native';
 
 const PostItem = ({post}) => {
   return (
@@ -15,9 +15,6 @@ const PostItem = ({post}) => {
 };
 
 const styles = StyleSheet.create({
-  post: {
-    margin: 6,
-  },
   image: {
     width: 180,
     height: 180,

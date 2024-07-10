@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     color: '#fff',
   },
   divider: {
-    width: 10,
+    width: 7,
   },
 });
 
